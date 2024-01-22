@@ -21,3 +21,6 @@ use and how they would like universities to respond to those systems.
 
 
 ## Contributing
+
+We highly encourage everyone interested to use the gathered data for further analysis.
+We hope that our data collection and analysis will help current and future students to benefit greatly from the opportunities offered by generative AI. Analyses based on this data should take such a goal into account.
