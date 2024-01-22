@@ -1,4 +1,4 @@
-# Generative AI in Student Learning: Breakthrough or Pitfall?
+# Generative AI in Student Learning: Breakthrough or Setback?!
 
 This project is a survey on the topic of generative AI in student learning. 
 It was conducted for a data literacy course at the University of Tübingen as part of a Cognitive Science Master's degree. 
