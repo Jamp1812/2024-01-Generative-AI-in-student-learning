@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>366</DBVersion>
+ <languages>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[47690]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Weiblich (Female)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47690]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Männlich (Male)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47690]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Divers (Diverse)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47690]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Keine Angabe (Prefer not to answer)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47693]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Bachelor (Bachelors Degree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47693]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Master (Masters Degree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47693]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Dr. / Phd.]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47693]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Other]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47698]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ja (Yes)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47698]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Nein (No)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47701]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ja (Yes)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47701]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Nein (No)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Täglich (Daily)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[An den meisten Wochentagen (On most days of the week)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[An einigen wenigen Wochentagen (On just a few days of the week)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Einige Male pro Monat (a couple times a month)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Einmal im Monat (Once a month)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Weniger als einmal pro Monat (Less than once a month)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[6]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[trifft voll zu (Strongly Agree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[trifft eher zu (Agree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[teils teils (Neutral)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[trifft eher nicht zu (Disagree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[trifft gar nicht zu (Strongly Disagree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[trifft voll zu (Strongly Agree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[trifft eher zu (Agree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[teils teils (Neutral)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[trifft eher nicht zu (Disagree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[trifft gar nicht zu (Strongly Disagree)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[trifft voll zu]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[trifft eher zu]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[teils teils]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[trifft eher nicht zu]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[trifft gar nicht zu.]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48652]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Offener Umgang (KI generell überall zulassen) / Open approach (generally allow AI everywhere)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48652]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Moderater Umgang (KI in abgesprochenen Ausnahmefällen zulassen) / Moderate handling (allow AI in agreed exceptional cases)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48652]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Restriktiver Umgang (KI zur Bearbeitung studentischer Aufgaben generell verbieten) / Restrictive handling (generally prohibit AI for processing student tasks)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48653]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ja (Yes)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48653]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Nein (No)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48653]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Unentschlossen (Undecided)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48654]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Alle Dozenten in meinem Studiengang sollten KI-Kenntnisse haben (All lecturers in my degree program should have knowledge of AI)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48654]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Einige Dozenten in meinem Studiengang sollten KI-Kenntnisse haben (Some lecturers in my degree program should have knowledge of AI)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48654]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Dozenten in meinem Studiengang benötigen keine KI-Kenntnisse (Lecturers in my degree program do not need any AI knowledge)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48655]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ja (Yes)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48655]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Nein (No)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[48655]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Unentschlossen (Undecided)]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>scenario</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[12876]]></cid>
+    <qid><![CDATA[47691]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12932]]></cid>
+    <qid><![CDATA[47719]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12939]]></cid>
+    <qid><![CDATA[47719]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12875]]></cid>
+    <qid><![CDATA[47690]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12877]]></cid>
+    <qid><![CDATA[47693]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12878]]></cid>
+    <qid><![CDATA[47694]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12879]]></cid>
+    <qid><![CDATA[47695]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12931]]></cid>
+    <qid><![CDATA[47701]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12933]]></cid>
+    <qid><![CDATA[47725]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12940]]></cid>
+    <qid><![CDATA[47725]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12934]]></cid>
+    <qid><![CDATA[47727]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12941]]></cid>
+    <qid><![CDATA[47727]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12935]]></cid>
+    <qid><![CDATA[47733]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12942]]></cid>
+    <qid><![CDATA[47733]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12936]]></cid>
+    <qid><![CDATA[47734]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12943]]></cid>
+    <qid><![CDATA[47734]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12937]]></cid>
+    <qid><![CDATA[47759]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12938]]></cid>
+    <qid><![CDATA[47763]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12893]]></cid>
+    <qid><![CDATA[47805]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47701]]></cqid>
+    <cfieldname><![CDATA[364124X4948X47701]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[12944]]></cid>
+    <qid><![CDATA[48017]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[13007]]></cid>
+    <qid><![CDATA[48652]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[13008]]></cid>
+    <qid><![CDATA[48653]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[13009]]></cid>
+    <qid><![CDATA[48654]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[13010]]></cid>
+    <qid><![CDATA[48655]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[47698]]></cqid>
+    <cfieldname><![CDATA[364124X4950X47698]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[4945]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Allgemeine Informationen (General Information)]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[4948]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Nutzung von generativer KI (Use of generative AI)]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[4950]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Rahmenbedingung (Framework condition)]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[4952]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Auswirkungen von generativer KI (Effects of generative AI)]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[4953]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Ausblick (Outlook)]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[5077]]></gid>
+    <sid><![CDATA[364124]]></sid>
+    <group_name><![CDATA[Universitärer Umgang mit KI (University approach to AI)]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[47690]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4945]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Gender]]></title>
+    <question><![CDATA[Welchem Geschlecht fühlst Du dich angehörig?<br /><br />Which gender do you feel you belong to?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47691]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4945]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Age]]></title>
+    <question><![CDATA[<p>Wie alt bist Du?</p>
+
+<p>How old are you?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47693]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4945]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Degree]]></title>
+    <question><![CDATA[<p>Welchen Abschluss strebst du aktuell an? </p>
+
+<p>What degree are you currently aiming for?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47694]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4945]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[University]]></title>
+    <question><![CDATA[An welcher Universität studierst du aktuell?<br /><br />At what university do you currently study?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47695]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4945]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Subject]]></title>
+    <question><![CDATA[<p>Welches Fach studierst du aktuell?</p>
+
+<p>What subject are you currently studying?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47698]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4950]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[CutOff]]></title>
+    <question><![CDATA[<p>Bist Du zum aktuellen Zeitpunkt als Student an einer Universität eingeschrieben?</p>
+
+<p>Are you currently enrolled as a student at a university?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47701]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[GenAIUse]]></title>
+    <question><![CDATA[<p>Nutzt du generative KI (z.B. ChatGPT, Dall-E, Midjourney etc.)?</p>
+
+<p>Do you use generative AI  (e.g. ChatGPT, Dall-E, Midjourney etc.)?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47719]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[TypesOfAI]]></title>
+    <question><![CDATA[<p>Welche generativen KI Programme nutzt du?</p>
+
+<p>Which generative AI tools do you use?<br /> </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1") and (364124X4948X47701.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47725]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[AmoutUniAI]]></title>
+    <question><![CDATA[<p>Gebe bitte an (in Prozent 0-100) wie hoch du den Anteil der Zeit einschätzt, den Du generative KI für universitäre Zwecke nutzt, im Vergleich zu dem Anteil der Zeit, welchen du generative KI außerhalb der Universität nutzt.</p>
+
+<p>Please indicate (in percent 0-100) how high you estimate the proportion of time you use generative AI for university purposes compared to the proportion of time you use generative AI outside the university.</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1") and (364124X4948X47701.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47727]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[AIUniApplications]]></title>
+    <question><![CDATA[<p>Wofür benutzt du generative KI im Rahmen deines Studiums? (Wähle bitte alle zutreffenden Antwortmöglichkeiten aus)</p>
+
+<p>What do you use generative AI for in your studies? (Please select all applicable answers)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1") and (364124X4948X47701.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47733]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[AIFreq]]></title>
+    <question><![CDATA[<p>Wie häufig nutzt Du generative KI für dein Studium?</p>
+
+<p>How often do you use generative AI for your studies?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1") and (364124X4948X47701.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47734]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[AIOutcomes]]></title>
+    <question><![CDATA[<p>Bitte gebe im folgenden an, wie sehr du mit den dargestellen Aussagen übereinstimmst.</p>
+
+<p>Please indicate below how much you agree with the statements made.</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1") and (364124X4948X47701.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47759]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[FearOfAI]]></title>
+    <question><![CDATA[Bitte gebe im folgenden an, wie sehr du den dargestellten Aussagen zustimmst.<br /><br />Please indicate below how much you agree with the statements presented.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47763]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[FurtherAI]]></title>
+    <question><![CDATA[Bitte gebe im folgenden an, wie sehr du den dargestellten Aussagen zustimmst.<br /><br />Please indicate below how much you agree with the statements presented.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47805]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[ReaonsAgainstAI]]></title>
+    <question><![CDATA[<p>Aus welchen Gründen nutzt Du keine generative KI für Dein studentisches Lernen? (Diese Frage ist optional)</p>
+
+<p>Why don't you use generative AI for your student learning? (This question is optional)</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4948X47701.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[48017]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Feedback]]></title>
+    <question><![CDATA[<p>Offenes Feedback (optional)</p>
+
+<p>- Z.B. (starke) persönliche Gedanken und Gefühle zum Umfrage-Thema</p>
+
+<p>Open feedback (optional)</p>
+
+<p>- E.g. (strong) personal thoughts and feelings about the survey topic</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[48652]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[5077]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[RestrictionPolicy]]></title>
+    <question><![CDATA[<p>Wie sollten Lehrende aus Deiner Sicht mit dem Vorhandensein von generativen KI-Programmen (z.B. ChatGPT) umgehen?</p>
+
+<p>In your opinion, how should educators deal with the existence of generative AI programs (e.g. ChatGPT)?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[48653]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[5077]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[AIforStudAssess]]></title>
+    <question><![CDATA[<p>Wie würdest Du dich fühlen, wenn KI-Tools zur Bewertung (z.B. Benotung) von Studienarbeiten eingesetzt würden? Würdest Du das als fair empfinden?</p>
+
+<p>How would you feel if AI tools were used to assess (e.g. grade) coursework? Would you think that would be fair?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[48654]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[5077]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[EducatorsAIExp]]></title>
+    <question><![CDATA[<p>Wie wichtig ist es für Dich, dass Deine Dozenten grundlegende Kenntnisse in KI haben? Sollten alle Dozenten in Deinem Studiengang grundlegende KI-Kenntnisse haben oder nur einige?</p>
+
+<p>How important is it for you that your lecturers have basic knowledge of AI? Should all lecturers in your degree program have basic AI knowledge or only some?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[48655]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[5077]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[AIforMaterials]]></title>
+    <question><![CDATA[<p>Wie stehst Du zur Verwendung von KI zur Erstellung von Studienmaterialien? Würdest Du es bevorzugen, wenn Studienmaterialien von Menschen erstellt werden?</p>
+
+<p>What do you think about the use of AI to create study materials? Would you prefer study materials to be created by humans?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((364124X4950X47698.NAOK == "A1"))]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[47720]]></qid>
+    <parent_qid><![CDATA[47719]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[ChatGPT]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47721]]></qid>
+    <parent_qid><![CDATA[47719]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Bing]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47722]]></qid>
+    <parent_qid><![CDATA[47719]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Google Bard]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47723]]></qid>
+    <parent_qid><![CDATA[47719]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Dall-E]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47724]]></qid>
+    <parent_qid><![CDATA[47719]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Midjourney]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47728]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Coding]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47729]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Erstellung von Texten (Generating essays)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47730]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Zusammenfassen von Studien (Summarizing papers)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47731]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Erstellung von Grafiken (Creating graphics)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47732]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Beantworten von Fragen zu neuen / unbekannten Themen (Answering questions on new / unknown topics)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47750]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Outputs welche ich durch generative KI erhalte scheinen mir akkurat zu sein (The outputs I get from generative AI appear to be usually accurate)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47751]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich vertraue in die Akkuratheit der erhaltenen KI Outputs (I trust in the accuracy of the AI outputs I receive)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47752]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Seitdem ich generative KI für die Universität nutze, hat sich mein durchschnittlicher Stress reduziert (Since I started using generative AI for university, my average stress has reduced)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47753]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Seitdem ich generative KI für die Universität nutze, hat sich die Zeit welche ich für das universitäre Lernen aufwende reduziert (Since I have been using generative AI for university, the time I spend on university learning has been reduced )]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47754]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Durch generative KI habe ich mehr Freizeit neben der Universität oder mehr Zeit, um andere Dinge zu lernen (Generative AI gives me more free time outside of university or more time to learn other topics)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47756]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Generative KI hat sich positiv auf meinen universitären Lernerfolg ausgewirkt (Generative AI has had a positive impact on my university learning success)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47757]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Ich sehe generative KI als eine Bereicherung für meinen universitären Alltag (I see generative AI as an enrichment for my everyday university life)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47758]]></qid>
+    <parent_qid><![CDATA[47734]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[Ich nutze generative KI eher um mich bei der Lösung von Aufgaben zu unterstützen als die Aufgaben vollständig mit dieser zu lösen (I use generative AI more to support me in solving tasks than to solve the tasks completely with it)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47760]]></qid>
+    <parent_qid><![CDATA[47759]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Künstliche Intelligenz ist eine Technologie, welche viele Gefahren birgt (Artificial intelligence is a technology that harbors many dangers)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47761]]></qid>
+    <parent_qid><![CDATA[47759]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Es braucht harte Richtlinien bei der Entwicklung von KI (Hard guidelines are needed for the development of AI)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47762]]></qid>
+    <parent_qid><![CDATA[47759]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Aktuelle Entwicklungen im Bereich der KI machen mir Angst (Current developments in the field of AI scare me)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[47764]]></qid>
+    <parent_qid><![CDATA[47763]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ich habe ein gutes Verständnis von der Funktionsweise von generativen KI Programmen (I have a good understanding of how generative AI programs work)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47765]]></qid>
+    <parent_qid><![CDATA[47763]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich glaube KI wird einen stark positiven Einfluss auf das studentische Lernen haben (I believe AI will have a strong positive impact on student learning)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47766]]></qid>
+    <parent_qid><![CDATA[47763]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Ich glaube KI wird einen stark negativen Einfluss auf das studentische Lernen haben (I believe AI will have a strong negative impact on student learning)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47767]]></qid>
+    <parent_qid><![CDATA[47763]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Ich würde gerne mehr über die Funktionsweise von generativen KI Programmen erfahren (I would like to learn more about how generative AI programs work)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47785]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Um mehr zu erfahren zu besprochenen Themen (To learn more about the topics discussed)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[48301]]></qid>
+    <parent_qid><![CDATA[47727]]></parent_qid>
+    <sid><![CDATA[364124]]></sid>
+    <gid><![CDATA[4948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Um im größeren Maße eigenständig zu lernen (To learn independently to a greater extent)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </subquestions>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[364124]]></sid>
+    <admin><![CDATA[Jan Göbel]]></admin>
+    <adminemail><![CDATA[jan.goebel1812@gmail.com]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[bootswatch]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[9]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[N]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[jan.goebel1812@gmail.com]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle/>
+    <googleanalyticsapikey/>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <questionindex><![CDATA[0]]></questionindex>
+    <gsid><![CDATA[1]]></gsid>
+    <showsurveypolicynotice><![CDATA[2]]></showsurveypolicynotice>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>attachments</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[364124]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Generative AI in student learning (Lernen mit KI)]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<p>(English Version below)</p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span helvetica="" style="font-family:"><span style="color:black">Liebe/r Teilnehmer/in,</span></span></span></span></span></span><br /> </p>
+
+<p style="margin-bottom:20px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span helvetica="" style="font-family:"><span style="color:black">wir sind David, Korwin und Jan, wir studieren Kognitionswissenschaften im Master an der Universität Tübingen und führen diese Umfrage im Rahmen unseres Data Literacy Kurses durch. Das Ziel dieser Umfrage ist es, herauszufinden, welchen Einfluss generative künstliche Intelligenz (KI) wie z.B. ChatGPT auf das studentische Lernen hat. Insgesamt soll dadurch bestimmt werden, ob KI einen eher positiven oder eher negativen Einfluss auf den studentischen Lernerfolg und das Lernverhalten nimmt. Dieser Fragebogen umfasst eine Reihe von Multiple-Choice-Fragen. Bitte markiere die Antwort bzw. mehrere Antworten, die auf dich zutreffen, mit einem Kreuzchen. Die Bearbeitungsdauer dieser Umfrage beträgt etwa 6-8 Minuten. Für den Erfolg der Studie ist es wichtig, dass du den Fragebogen vollständig ausfüllst und keine der Fragen auslässt. Alle Daten werden anonym erhoben, sie können deiner Person nicht zugeordnet werden und werden streng vertraulich behandelt.</span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span helvetica="" style="font-family:"><span style="color:black">Vielen Dank für deine Teilnahme.</span></span></span></span></span></span><br /> </p>
+
+<p><br /><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span helvetica="" style="font-family:"><span style="color:black">----- English Version --------------------------------------------------------------------------------------</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span style="line-height:107%"><span helvetica="" style="font-family:"><span style="color:black">Dear participant,</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span style="line-height:107%"><span helvetica="" style="font-family:"><span style="color:black">we are David, Korwin and Jan, we are studying Cognitive Science at the University of Tübingen and are conducting this survey as part of our Data Literacy course. The aim of this survey is to find out what impact generative artificial intelligence (AI) such as ChatGPT has on student learning. The overall aim is to determine whether AI has a rather positive or rather negative influence on student learning success and learning behavior. This questionnaire comprises a series of multiple-choice questions. Please mark the answer or several answers that apply to you with a cross. This survey takes about 6-8 minutes to complete. It is important for the success of the study that you complete the questionnaire in full and do not skip any of the questions. All data is collected anonymously, cannot be traced back to you personally and will be treated in strict confidence.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span style="line-height:107%"><span helvetica="" style="font-family:"><span style="color:black">Thank you for your participation.</span></span></span></span></span></span></span></p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.5pt"><span style="line-height:107%"><span style="font-family:&quot;Helvetica&quot;,sans-serif"><span style="color:black">Vielen Dank für Deine Teilnahme. Wir wünschen Dir weiterhin alles Gute.</span></span></span></span></span></span></span><br /><br /><span style="font-size:11.5pt"><span style="line-height:107%"><span style="font-family:&quot;Helvetica&quot;,sans-serif"><span style="color:black">Thank you very much for your participation. We wish you all the best for the future.</span></span></span></span></p>
+]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+    <surveyls_policy_notice><![CDATA[<h4 dir="ltr">[English version below]</h4>
+
+<h1 dir="ltr"><strong>Datenschutz: </strong></h1>
+
+<p dir="ltr">Wir möchten Sie darüber informieren, dass Ihre Teilnahme an unserer Umfrage freiwillig ist und dass Ihre Antworten anonym und vertraulich behandelt werden. Die von Ihnen bereitgestellten Daten werden nur für Forschungszwecke verwendet und nicht an Dritte weitergegeben. Die erhobenen Daten werden ausschließlich für die Zwecke der Forschung verwendet und können nicht mit Ihrer Person in Verbindung gebracht werden. Die Daten werden auf sicheren Servern gespeichert und sind nur für autorisierte Personen zugänglich. Durch die Teilnahme an unserer Umfrage erklären Sie sich damit einverstanden, dass Ihre Daten erhoben und verarbeitet werden. Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Bei Rückfragen kontaktieren Sie gerne Jan.Goebel@stud.uni-tuebingen.de</p>
+
+<h3 dir="ltr"> </h3>
+
+<h3 dir="ltr">Freiwilligkeit </h3>
+
+<p dir="ltr">Die Teilnahme an der Studie ist freiwillig. Sie können die Befragung jederzeit und ohne Angabe von Gründen abbrechen. Ihnen entstehen daraus keine Nachteile. </p>
+ 
+
+<h3 dir="ltr">Mit der Teilnahme verbundener Nutzen und Erfahrungen </h3>
+
+<p dir="ltr">Durch Ihre Teilnahme an dieser Studie haben Sie die Möglichkeit, nähere Einblicke in die psychologische Forschung zu erhalten. Durch die Teilnahme an dieser Studie entsteht kein Risiko, das über die Risiken des alltäglichen Lebens hinausgeht. </p>
+ 
+
+<h3 dir="ltr">Datenschutz und Anonymität </h3>
+
+<p dir="ltr">Die Antworten der Befragung werden so gespeichert und aufbewahrt, dass kein Rückschluss auf Ihre Person möglich ist. Die Anonymität Ihrer Angaben wird gemäß den geltenden Datenschutzgesetzen und - Richtlinien sowie psychologischer Forschungsethik eingehalten. Da Ihre Angaben keinen Rückschluss auf Ihre Person zulassen ist nach Beendigung des Fragebogens kein gezieltes Löschen Ihrer Antworten mehr möglich. <br /><br />----- English version ---------------------------------------------------------</p>
+
+<h1>Data protection: </h1>
+
+<p><br />We would like to inform you that your participation in our survey is voluntary and that your answers will be treated anonymously and confidentially. The data you provide will only be used for research purposes and will not be passed on to third parties. The data collected will only be used for research purposes and cannot be linked to you personally. The data will be stored on secure servers and will only be accessible to authorized persons. By participating in our survey, you consent to your data being collected and processed. You have the right to withdraw your consent at any time. If you have any questions, please contact Jan.Goebel@stud.uni-tuebingen.de</p>
+
+<h3><br />Voluntary nature </h3>
+
+<p><br />Participation in the study is voluntary. You can cancel the survey at any time without giving reasons. You will not suffer any disadvantages as a result. </p>
+
+<h3><br />Benefits and experiences associated with participation </h3>
+
+<p><br />By participating in this study, you have the opportunity to gain a closer insight into psychological research. Participation in this study does not entail any risk beyond the risks of everyday life.<br /> </p>
+
+<h3> Data protection and anonymity </h3>
+
+<p><br />The answers to the survey are stored and kept in such a way that no conclusions can be drawn about you personally. The anonymity of your data will be maintained in accordance with the applicable data protection laws and guidelines as well as psychological research ethics. As your details do not allow any conclusions to be drawn about you personally, it is no longer possible to delete your answers once the questionnaire has been completed.</p>
+]]></surveyls_policy_notice>
+    <surveyls_policy_error><![CDATA[Bitte stimmen Sie der Datenschutzerklärung zu, um mit dieser Umfrage fortzufahren! (Please agree to the privacy policy to continue with this survey!)]]></surveyls_policy_error>
+    <surveyls_policy_notice_label><![CDATA[Zur Umfrageteilnahme bestätigen Sie bitte die unten stehende Datenschutzerklärung (To participate in the survey, please confirm the privacy policy "Datenschutzerklärung" below )]]></surveyls_policy_notice_label>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>364124</sid>
+   <template_name>bootswatch</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+  <theme>
+   <sid>364124</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>364124</sid>
+   <template_name>bootswatch</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <brandlogo>on</brandlogo>
+     <container>on</container>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <backgroundimage>off</backgroundimage>
+     <backgroundimagefile>./files/pattern.png</backgroundimagefile>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <font>noto</font>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+     <fixnumauto>off</fixnumauto>
+    </options>
+   </config>
+  </theme>
+  <theme>
+   <sid>364124</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <brandlogo>on</brandlogo>
+     <container>on</container>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <font>noto</font>
+     <backgroundimage>off</backgroundimage>
+     <backgroundimagefile>./files/pattern.png</backgroundimagefile>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+     <fixnumauto>off</fixnumauto>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
