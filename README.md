@@ -14,12 +14,6 @@ what factors are causing its use. Additionally we
 want to find out if students report to benefit from the
 use and how they would like universities to respond to those systems.
 
-## Installation
-
-
-## Usage
-
-
 ## Contributing
 
 We highly encourage everyone interested to use the gathered data for further analysis.
